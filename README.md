@@ -49,6 +49,3 @@ The objective of this task is to analyze a colored image by separating its Red, 
 * **Google Colab** for uploading and running the code
 
 ---
-
-Kya main wo complete README bana doon?
-
